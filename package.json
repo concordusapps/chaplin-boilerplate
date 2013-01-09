@@ -1,0 +1,23 @@
+{
+  "name": "ardent",
+  "author": "Concordus Applications",
+  "version": "0.3.0",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "git://github.com/gruntjs/grunt#0d59f5c7e6c8b45691de40645290a20166a43386",
+    "grunt-haml": "0.3.x",
+    "grunt-contrib-coffee": "git://github.com/gruntjs/grunt-contrib-coffee.git#01f90adb16e315ee88c0befa5bb401bbfd4cbc6e",
+    "grunt-contrib-clean": "0.4.x",
+    "grunt-contrib-copy": "git://github.com/concordusapps/grunt-contrib-copy.git",
+    "grunt-contrib-compass": "0.1.x",
+    "grunt-requirejs": "0.3.x",
+    "grunt-filesize": "0.0.x",
+    "grunt-urequire": "0.1.x",
+    "grunt-contrib-connect": "git://github.com/gruntjs/grunt-contrib-connect.git#cce476636630d73955e6b461a3f5460b01158eba",
+    "grunt-contrib-watch": "0.2.x",
+    "grunt-coffeelint": "0.0.x",
+    "grunt-bower-task": "0.1.x",
+    "connect-url-rewrite": "0.1.x"
+  }
+}
